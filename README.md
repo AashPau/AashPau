@@ -7,7 +7,8 @@ MERN Developer
 * 🌍  I'm based in Sydney, Australia
 * 🖥️  See my portfolio at [aashishpaudel.com](http://aashishpaudel.com)
 * ✉️  You can contact me at [aashpau@gmail.com](mailto:aashpau@gmail.com)
-* 🧠  I'm learning Node js, Express and MongoDB
+* 🚀  I'm currently working on [ecommerce web app](https://shoes-ecommerce-frontend-swart.vercel.app/)
+* 🧠  I'm learning JWT
 
 ### Skills
 
@@ -28,18 +29,3 @@ MERN Developer
 <a href="http://www.github.com/AashPau"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AashPau&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/AashPau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashPau&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!--
-**AashPau/AashPau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning full stack (MERN at Dented Code Academy)
-- 🔭 I’m currently working on my own full stack Portfolio
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
