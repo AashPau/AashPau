@@ -8,7 +8,7 @@ MERN Developer
 * 🖥️  See my portfolio at [aashishpaudel.com](http://aashishpaudel.com)
 * ✉️  You can contact me at [aashpau@gmail.com](mailto:aashpau@gmail.com)
 * 🚀  I'm currently working on [ecommerce web app](https://shoes-ecommerce-frontend-swart.vercel.app/)
-* 🧠  I'm learning JWT
+* 🧠  I'm learning Docker
 
 ### Skills
 
